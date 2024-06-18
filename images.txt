@@ -6,3 +6,5 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 johngong/baidunetdisk
 cnk3x/xunlei
+jeessy/ddns-go
+kodcloud/kodbox:latest
