@@ -8,4 +8,3 @@ johngong/baidunetdisk
 cnk3x/xunlei
 jeessy/ddns-go
 kodcloud/kodbox:latest
-ModernWMS/ModernWMS
