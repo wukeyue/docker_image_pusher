@@ -10,3 +10,4 @@ jeessy/ddns-go
 kodcloud/kodbox:latest
 modernwms/modernwms:1.0
 lscr.io/linuxserver/transmission
+xhofe/alist:latest
