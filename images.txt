@@ -11,3 +11,4 @@ modernwms/modernwms:1.0
 lscr.io/linuxserver/transmission
 xhofe/alist:latest
 apachewebdav/apachewebdav
+lscr.io/linuxserver/resilio-sync
