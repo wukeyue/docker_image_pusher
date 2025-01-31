@@ -15,3 +15,4 @@ lscr.io/linuxserver/resilio-sync
 jellyfin/jellyfin:latest
 lscr.io/linuxserver/plex
 emby/embyserver:latest
+linuxserver/transmission:3.00-r8-ls151
