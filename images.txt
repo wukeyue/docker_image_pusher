@@ -15,4 +15,3 @@ jellyfin/jellyfin:latest
 lscr.io/linuxserver/plex
 emby/embyserver:latest
 linuxserver/transmission
-openlistteam/openlist
